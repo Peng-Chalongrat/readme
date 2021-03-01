@@ -15,7 +15,28 @@
 * [Deploy PHP To Heroku](https://itchampclub.medium.com/php-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%8A%E0%B8%94%E0%B8%9A%E0%B8%99-github-%E0%B9%81%E0%B8%A5%E0%B8%B0-deploy-%E0%B8%97%E0%B8%B5%E0%B9%88-heroku-1412def1cef9) , [Deploy a Static Site To Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 * [Heroku Posgress SQL Setup](https://www.youtube.com/watch?v=fD7x8hd9yE4)
 * [w3big](http://www.w3big.com/th/index.html)
+* [Flutter](https://www.youtube.com/watch?v=3jGj-1-m_zA)
 * 
 
 ## Link About .....
 * []()
+
+
+## สาระน่ารู้
+```
+วิธีพิมพ์สัญลักษณ์ตัวหนอน ~ (Grave Accent)
+เลือกภาษาที่พิมพ์ปัจจุบันเป็นภาษาอังกฤษ
+กด Shift + ปุ่ม ~ ค้างไว้ประมาณ 1 วินาที
+
+วิธีพิมพ์สัญลักษณ์เปอร์เซ็น % (Percent)
+เลือกภาษาที่พิมพ์ปัจจุบันเป็นภาษาไทย
+กด Shift + ปุ่ม ~ ค้างไว้ประมาณ 1 วินาที แต่ถ้าหากใช้ % (แนะนำกดบนเลข 5)
+
+วิธีพิมพ์สัญลักษณ์ `
+เลือกภาษาที่พิมพ์ปัจจุบันเป็นภาษาอังกฤษ
+กด Windows + ปุ่ม ~ ค้างไว้ประมาณ 1 วินาที
+
+วิธีพิมพ์สัญลักษณ์ _
+เลือกภาษาที่พิมพ์ปัจจุบันเป็นภาษาไทย
+กด Windows + ปุ่ม ~ ค้างไว้ประมาณ 1 วินาที (แนะนำกดบนเลข ๘)
+```
