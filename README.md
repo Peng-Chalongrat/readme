@@ -11,7 +11,7 @@
 * [Laravel Framework & Vue.js Frontend](https://www.youtube.com/playlist?list=PLEE74DyIkwElrZBxAW1x0AEHPrUQqwSaq)
 * [w3big](http://www.w3big.com/th/index.html)
 * [Flutter](https://www.youtube.com/watch?v=3jGj-1-m_zA)
-* [hosting frontend](https://dash.cloudflare.com/80e8f2e87a584e3b742028d6a66e937b/pages)
+* [Hosting Frontend (Cloundflare) ](https://dash.cloudflare.com/80e8f2e87a584e3b742028d6a66e937b/pages)
 
 ## สาระน่ารู้
 ```
