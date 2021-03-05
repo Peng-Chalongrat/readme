@@ -13,6 +13,11 @@
 * [Flutter](https://www.youtube.com/watch?v=3jGj-1-m_zA)
 * [Hosting Frontend (Cloundflare) ](https://dash.cloudflare.com/80e8f2e87a584e3b742028d6a66e937b/pages)
 
+## Link About Report
+* [วิธีใส่เลขหน้า Word 1](https://www.nongit.com/blog/page-numbers-word-at-a-specific-page.html) / [วิธีใส่เลขหน้า Word 2](https://www.nongann.com/2019/05/14/insert-pagenumber-microsoft-word/) / [วิธีใส่เลขหน้า Word 3](https://www.dcrub.com/word-insert-page-number)
+* [วิธีการทำสารบัญ 1](https://www.facebook.com/ThammasatULibrary/posts/2191437584236231) / [วิธีการทำสารบัญ 2](http://eng.rmutsv.ac.th/engineeri/sites/default/files/u362/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D%20Word%20%E0%B8%AD%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%94%E0%B8%97%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B9%82%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4.pdf) / [วิธีการทำสารบัญ 3](https://medium.com/make-it-easy/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B9%83%E0%B8%99-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1-microsoft-word-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%9E-e5480f8e5d1e)
+* [Secure PDF 1](http://ccenter.yru.ac.th/support/docs/paper/AcrobatPassword.pdf) / [Secure PDF 2](http://www.thaigoodview.com/node/174620) / [Secure PDF 3](https://www.nongit.com/blog/how-to-password-protect-pdf-files.html)
+
 ## สาระน่ารู้
 ```
 วิธีพิมพ์สัญลักษณ์ตัวหนอน ~ (Grave Accent) เลือกภาษาที่พิมพ์ปัจจุบันเป็นภาษาอังกฤษ กด Shift + ปุ่ม ~ ค้างไว้ประมาณ 1 วินาที
