@@ -13,7 +13,7 @@
 * [w3big](http://www.w3big.com/th/index.html)
 * [Flutter](https://www.youtube.com/watch?v=3jGj-1-m_zA)
 * [Hosting Frontend (Cloundflare) ](https://dash.cloudflare.com/80e8f2e87a584e3b742028d6a66e937b/pages)
-* [Status Code 1](https://medium.com/i-gear-geek/http-status-code-%E0%B8%97%E0%B8%B5%E0%B9%88-software-developer-%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89-6521603e7c75)
+* [Status Code 1](https://medium.com/i-gear-geek/http-status-code-%E0%B8%97%E0%B8%B5%E0%B9%88-software-developer-%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89-6521603e7c75) / [Status Code 2](https://www.ideagital.com/savepong/http-status-code)
 * [Template NodeJS](https://github.com/Peng-Chalongrat/create_nodejs)
 * [Template Vus JS](https://github.com/Peng-Chalongrat/vue-template)
 
