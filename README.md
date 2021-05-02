@@ -7,7 +7,7 @@
 * [Heroku Posgress SQL Setup](https://www.youtube.com/watch?v=fD7x8hd9yE4)
 * [Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
 * [Codeigniter Framework](https://www.youtube.com/playlist?list=PLWCEDsNutP7Lqa9k6hyvCpQXVxhBi1u7i&fbclid=IwAR3uFzvnZP5RzU3DRDPAxCq2L_Q3HlNwGuqqrd_mpkQB1lCkpfjOdOWoO6I) / [Codeigniter HMVC](https://www.youtube.com/playlist?list=PLT6eEMKoy6KX4oEki1HNVInvUDWdJrT3W)
-* [Vue.js Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEnQ3fqgLNRnBHdGONErIKzL)
+* [Vuejs Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEnQ3fqgLNRnBHdGONErIKzL)
 * [Laravel Framework Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEnDRHQjHaJyV4K1TsMPkbiV)
 * [Laravel Framework & Vue.js Frontend](https://www.youtube.com/playlist?list=PLEE74DyIkwElrZBxAW1x0AEHPrUQqwSaq)
 * [w3big](http://www.w3big.com/th/index.html)
